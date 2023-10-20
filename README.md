@@ -22,7 +22,7 @@
 </details>
 
 ## Download
-
+**CAUTION** The VPN currently doesn't utilize enabled VPN which can leak your IP-Address. Make sure to use a proxy which can be enabled in settings
 **Latest stable build:** ([GitHub Release](https://github.com/XITRIX/iTorrent/releases/latest))
 
 **Latest dev build:** ([AppCenter](https://install.appcenter.ms/users/x1trix/apps/itorrent/distribution_groups/public)) 
